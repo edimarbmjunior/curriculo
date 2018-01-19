@@ -1,30 +1,24 @@
-# Danillo César de O. Melo (currículo)
+# Edimar Barbosa Miranda Junior (currículo)
 
 <img src="https://s.gravatar.com/avatar/cd508377affc0de2b74b456211cf383d?s=80" />
 
-Local: Maceió - Alagoas | Idade: 25 anos
+Local: São Gonçalo - RJ | Idade: 25 anos
 
-Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
-e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
-para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "*user experience*".
+Sou desenvolvedor, gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com desenvolvimento de sistemas. Nas horas vagas gosto de navegar na internet para me manter atualizado nas novas tecnologias e tendências. Sou programador WEB, Java, angular(JS e V2/4) e Cobol.
 
 Atualmente trabalho na Rede social [Edufindme](http://edufindme.com "Link") e em minha empresa [Sook](http://sook.com.br "link")
 
-blog: [http://www.danillocesar.com.br](http://www.danillocesar.com.br "Blog pessoal")  
-twitter: [@danillo](http://twitter.com/danillos "pessoal")  
-github: [https://github.com/danillos](https://github.com/danillos "pessoal") e [https://github.com/sook](https://github.com/sook "empresa")  
-forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal") 
+blog: [https://www.linkedin.com/in/ebmjr/](https://www.linkedin.com/in/ebmjr/ "Linkedin")  
+github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior "GitHub")
 
 ## Conhecimentos
 
-* PHP (7 anos)
-* Ruby (3 anos)
+* Cobol (5 anos)
+* Java (3 anos)
 * Javascript (3 anos)
-* HTML e CSS (LESS)
-* Sistemas de controle de versão (git, svn)
-* Testes automatizados (bdd, tdd)
+* HTML e CSS (3 anos)
+* Sistemas de controle de versão (git)
 * Desenvolvimento Ágil
-* User experience e design ([alguns trabalhos](http://forrst.me/danillos/posts "forrst")) 
 * Segurança e performance web (já prestei pequenas consultorias)
 * Inglês suficiente para ler e entender.
 
@@ -32,18 +26,18 @@ forrst: [http://forrst.me/danillos/](http://forrst.me/danillos/ "pessoal")
 
 ### Open Sources
 
-* **Drumon Framework** (php) ([link](http://github.com/sook/drumon_framework "github"))  
+* **SCHOOL with AngularJs Basic** (angularJS) ([link](https://github.com/edimarbmjunior/SCHOOL-AngularJs "github"))  
  
-   Framework em PHP para desenvolvimento rápido de aplicações web.
+   Aplicação com funcionalidades basicas do angular, utilizando por exemplo, push. Assim ajudando a comunidade a entender e difundir.
 
 * **Fire Event** (php) ([link](https://github.com/danillos/fire_event "github"))  
 
    Event Dispatcher Class em PHP, criado para ser usado no Drumon Framework e foi utilizado pelo anandkunal em seu framework [ToroPHP](https://github.com/anandkunal/ToroPHP "github") 
 
 
-* **TinyAlert** (js, mootools) ([link](http://www.danillocesar.com.br/labs/tinyalert "link"))  
+* **angular2-quickstart** (angular V2/4) ([link](https://github.com/edimarbmjunior/angular2-quickstart "link"))  
  
-   Simples e leve sistema de alerta
+   Modelo básico, feito fork do ([link](https://github.com/plinionaves "Link - Plinio")).
 
 
 * **Tiny Next Select** (js, mootools) ([link](http://www.danillocesar.com.br/labs/tiny-next-select "link")) 
