@@ -6,7 +6,7 @@ Local: São Gonçalo - RJ | Idade: 25 anos
 
 Sou desenvolvedor, gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com desenvolvimento de sistemas. Nas horas vagas gosto de navegar na internet para me manter atualizado nas novas tecnologias e tendências. Sou programador WEB, Java, angular(JS e V2/4) e Cobol.
 
-Atualmente trabalho na STEFANINI I.T. [STEFANINI](https://stefanini.com/ "Link").
+Atualmente trabalho na [STEFANINI I.T.](https://stefanini.com/ "Link").
 
 Linkedin: [https://www.linkedin.com/in/ebmjr/](https://www.linkedin.com/in/ebmjr/ "Linkedin")  
 github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior "GitHub")
@@ -30,17 +30,12 @@ github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior "G
  
    Aplicação com funcionalidades basicas do angular, utilizando por exemplo, push. Assim ajudando a comunidade a entender e difundir.
 
-* **Fire Event** (php) ([link](https://github.com/danillos/fire_event "github"))  
-
-   Event Dispatcher Class em PHP, criado para ser usado no Drumon Framework e foi utilizado pelo anandkunal em seu framework [ToroPHP](https://github.com/anandkunal/ToroPHP "github") 
-
-
 * **angular2-quickstart** (angular V2/4) ([link](https://github.com/edimarbmjunior/angular2-quickstart "link"))  
  
    Modelo básico, feito fork do ([link](https://github.com/plinionaves "Link - Plinio")).
 
 
-* **Tiny Next Select** (js, mootools) ([link](http://www.danillocesar.com.br/labs/tiny-next-select "link")) 
+* **Cadastro-Contatos** (angular v2/4 / TYPESCRIPT) ([link](https://github.com/edimarbmjunior/Cadastro-Contatos "link")) 
 
    Framework em PHP para desenvolvimento rápido de aplicações web.
 
