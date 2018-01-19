@@ -55,7 +55,7 @@ github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior "G
   
 Sentiu falta de algo importante em meu currículo / quer entrar em contato ?
 
-*[Envie-me uma mensagem no linkedin ](https://www.linkedin.com/in/ebmjr/ "Envie-me uma mensagem ").
+*[Envie-me uma mensagem no linkedin](https://www.linkedin.com/in/ebmjr/ "Envie-me uma mensagem no linkedin").
 
-*[Envie um e-mail ](edimarbmjunior@gmail.com "Envie um e-mail.").
+*[Envie um e-mail](edimarbmjunior@gmail.com "Envie um e-mail").
 
