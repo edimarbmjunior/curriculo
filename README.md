@@ -4,7 +4,7 @@
 
 Local: São Gonçalo - RJ | Idade: 25 anos
 
-Sou desenvolvedor, gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com desenvolvimento de sistemas. Nas horas vagas gosto de navegar na internet para me manter atualizado nas novas tecnologias e tendências. Sou programador WEB, Java, angular(JS e V2/4) e Cobol.
+Sou desenvolvedor, gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com desenvolvimento de sistemas. Nas horas vagas, gosto de navegar na internet para me manter atualizado nas novas tecnologias e tendências. Sou programador WEB(inclusive angular(JS e V2/4)), Java e Cobol.
 
 Atualmente trabalho na [STEFANINI I.T.](https://stefanini.com/ "Link").
 
