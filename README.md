@@ -37,31 +37,23 @@ github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior "G
 
 * **Cadastro-Contatos** (angular v2/4 / TYPESCRIPT) ([link](https://github.com/edimarbmjunior/Cadastro-Contatos "link")) 
 
-   Framework em PHP para desenvolvimento rápido de aplicações web.
-
-
-* **Outros no github** ([link](https://github.com/danillos "link")) 
-
-
-### Proprietários
-
-* **Sook CMS** (Ruby on Rails) ([screenshot](https://github.com/danillos/curriculo/raw/master/images/cms_sook.jpg "foto"))  
-
-  Gerenciador de conteúdo escrito em Ruby on Rails que acessa remotamente o banco de dados do cliente.
-
-## Outros
-
-* Ganhei o Prêmio Imaster Intercon 2005 na categoria Web Standards
-* 
+   Aplicação demonstrando a utilização do TYPESCRIPT/Angular v2/4, criando as funcionalidades do zero, demonstrando como utlizar testes de lentidão, utlização de falsas chamadas ao banco, API simulada.
 
 ## Formação
 
-* Graduado em Sistemas de Informação pela (FAL)
-* Pós em Tecnologias Web para negócios (FEJAL)
- 
+* Graduado em Sistemas de Informação pela (UNESA - Estácio de Sá)
+
+## Cursos
+
+* WebDeveloper Java - Coti Informática
+* Curso Completo do Desenvolvedor Web - Hcode - Udemy
+* Java p/ Web V - Neri Neitzke - Udemy
+* Git e Github para iniciantes - Willian Justen de Vasconcellos - Udemy
 
 --- 
 
   
-Sentiu falta de algo importante em meu currículo?  
-[Envie-me uma mensagem ](https://github.com/inbox/new/danillos "Envie-me uma mensagem ") e ajude-me a melhora-lo.
+Sentiu falta de algo importante em meu currículo / quer entrar em contato ?
+[Envie-me uma mensagem no linkedin ](https://www.linkedin.com/in/ebmjr/ "Envie-me uma mensagem ").
+[Envie-me um e-mail ](edimarbmjunior@gmail.com "Envie-me um e-mail.").
+
