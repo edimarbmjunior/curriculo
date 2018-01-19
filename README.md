@@ -6,9 +6,9 @@ Local: São Gonçalo - RJ | Idade: 25 anos
 
 Sou desenvolvedor, gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com desenvolvimento de sistemas. Nas horas vagas gosto de navegar na internet para me manter atualizado nas novas tecnologias e tendências. Sou programador WEB, Java, angular(JS e V2/4) e Cobol.
 
-Atualmente trabalho na Rede social [Edufindme](http://edufindme.com "Link") e em minha empresa [Sook](http://sook.com.br "link")
+Atualmente trabalho na STEFANINI I.T. [STEFANINI](https://stefanini.com/ "Link").
 
-blog: [https://www.linkedin.com/in/ebmjr/](https://www.linkedin.com/in/ebmjr/ "Linkedin")  
+Linkedin: [https://www.linkedin.com/in/ebmjr/](https://www.linkedin.com/in/ebmjr/ "Linkedin")  
 github: [https://github.com/edimarbmjunior](https://github.com/edimarbmjunior "GitHub")
 
 ## Conhecimentos
